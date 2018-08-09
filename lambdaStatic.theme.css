@@ -1,5 +1,6 @@
 //META{"name":"Lambda Static","description":"Тема оформления под стиль LambdaRP сервера (статическая)","author":"XanderWP&#Японец","version":"1.1.0","website":"https://github.com/LambdaRP/BetterDiscordTheme","source":"https://github.com/LambdaRP/BetterDiscordTheme/blob/master/lambdaStatic.theme.css"}*//{}
 @import url('https://fonts.googleapis.com/css?family=Marvel');
+
 .app {
 	background-image: url("https://cdn.discordapp.com/attachments/465099899105574922/470543843498917888/wallpaper.png");
 	background-size: cover;
